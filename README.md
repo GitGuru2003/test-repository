@@ -3,3 +3,5 @@
 
 THis is an edit from my local computerx
 This is an example for another commit
+
+Updating it for the third time to work with resolving conflicts
